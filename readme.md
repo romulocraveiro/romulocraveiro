@@ -1,3 +1,17 @@
-# HELLO WORLD!
+## Olá, seja bem-vind@ ao meu Github!
 
-Meu primeiro readme para o meu perfil do Github!
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisetevidotti/)](https://www.linkedin.com/in/romulocraveiro/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:romulocraveiro@gmail.com/)
+
+<p align="center">
+  <img src="img/federationstarship.png" width="350" title="federationstarship" alt="Star Trek starship">
+</p>
+
+Amante de cinema, livros, séries de tv, música hardcore, línguas, linguagens, e astrologia. 
+
+Aluno do curso Técnico em Desenvolvimento de Sistemas no SENAI Cimatec, em Salvador-Ba, acho tanto back end quanto front end fascinantes. Comemoro cada desafio superado no meu caminho de aprendizagem de programação. Com Urano próximo ao meu Ascendente, tenho ideias em tecnologias que desejo pôr em prática em prol da coletividade.
+
+<p align="center">
+  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulocraveiro&hide=html&layout=compact&theme=radical" />
+  <img width="434px" src="https://github-readme-stats.vercel.app/api?username=romulocraveiro&theme=radical&show_icons=true" />
+</p>
+<!--Imagen de <a href="https://pixabay.com/es/users/mdherren-5832917/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2493978">mdherren</a> en <a href="https://pixabay.com/es/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2493978">Pixabay</a>-->
