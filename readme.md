@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisetevidotti/)](https://www.linkedin.com/in/romulocraveiro/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:romulocraveiro@gmail.com/)
 
 <p align="center">
-  <img src="img/federationlogo.png" width="350" title="federationstarship" alt="Star Trek starship">
+  <img src="img/federationlogo.png" width="250" title="federationstarship" alt="Star Trek starship">
 </p>
 
 Amante de cinema, livros, séries de tv, música hardcore, línguas, linguagens, e astrologia. 
