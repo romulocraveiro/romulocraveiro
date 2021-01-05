@@ -10,8 +10,7 @@ Amante de cinema, livros, séries de tv, metal, línguas, linguagens, e astrolog
 
 Aluno do curso Técnico em Desenvolvimento de Sistemas no SENAI Cimatec, em Salvador-Ba, acho tanto back end quanto front end fascinantes. Comemoro cada desafio superado no meu caminho de aprendizagem de programação. Com Urano se comunicando com o meu Ascendente, tenho ideias em tecnologia que desejo pôr em prática em prol da coletividade. 
 
-"Engage". 
- <i>Jean Luc Picard<i>
+"Engage". <i>Jean Luc Picard<i>
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulocraveiro&hide=html&layout=compact&theme=radical" />
