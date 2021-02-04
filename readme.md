@@ -3,7 +3,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisetevidotti/)](https://www.linkedin.com/in/romulocraveiro/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:romulocraveiro@gmail.com/)
 
 <p align="center">
-  <img src="img/federationlogoround.png" width="250" title="federationlogo" alt="United Federation of Planets' logo">
+  <img src="img/imageonline-co-whitebackgroundremoved.png" width="250" title="federationlogo" alt="United Federation of Planets' logo">
 </p>
 
 Amante de cinema, livros, séries de tv, metal, línguas, linguagens, e astrologia.
