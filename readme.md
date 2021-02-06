@@ -16,5 +16,5 @@ Aluno do curso Técnico em Desenvolvimento de Sistemas no SENAI Cimatec, em Salv
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=romulocraveiro&hide=html&layout=compact&theme=radical" />
   <img width="434px" src="https://github-readme-stats.vercel.app/api?username=romulocraveiro&theme=radical&show_icons=true" />
 </p>
-<!--Imagen de <https://commons.wikimedia.org/wiki/File:StarfleetCommandEmblemVectorized.svg> . A imagem foi 
+<!--Imagem de <https://commons.wikimedia.org/wiki/File:StarfleetCommandEmblemVectorized.svg> . A imagem foi 
 estilizada com o aplicativo Fotos Microsoft.-->
