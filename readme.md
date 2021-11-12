@@ -8,7 +8,7 @@
 
 Amante de cinema, livros, séries de tv, metal, línguas, linguagens, e astrologia.
 
-Estudante de Desenvolvimento de Sistemas em Salvador-Ba, ainda me decidindo entre o front end e o back end, pois acho ambos apaixonantes. Comemoro cada desafio superado no meu caminho de aprendizagem de programação. Com Urano "em conversa" com o meu Ascendente, desejo pôr em prática ideias em tecnologia em prol da coletividade. 
+Estudante de Desenvolvimento de Software, morando em Salvador-Ba. Comemoro cada desafio superado no meu caminho de aprendizagem de programação. Com Urano "em conversa" com o meu Ascendente, desejo pôr em prática ideias em tecnologia em prol da coletividade. 
 
 "Engage". <i> Jean Luc Picard<i>
 
