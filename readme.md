@@ -1,6 +1,6 @@
 ## Olá, obrigado por visitar o meu Github!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elisetevidotti/)](https://www.linkedin.com/in/romulocraveiro/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:liz.vidotti@gmail.com)](mailto:romulocraveiro@gmail.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romulocraveiro/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulocraveiro@gmail.com)](mailto:romulocraveiro@gmail.com/)
 
 <p align="center">
   <img src="img/federationlogodark.jpg" width="250" title="federationlogo" alt="United Federation of Planets' logo">
@@ -8,7 +8,7 @@
 
 Amante de cinema, livros, séries de tv, metal, línguas, linguagens, e astrologia.
 
-Estudante de Desenvolvimento de Software, morando em Salvador-Ba. Comemoro cada desafio superado no meu caminho de aprendizagem de programação. Com Urano "em conversa" com o meu Ascendente, desejo pôr em prática ideias em tecnologia em prol da coletividade. 
+Desenvolvedor Fullstack em formação na Cubos Academy, morando em Salvador-Ba. Desejo pôr em prática ideias em tecnologia em prol da coletividade e desenvolvimento humano. 
 
 "Engage". <i> Jean Luc Picard<i>
 
