@@ -1,6 +1,6 @@
 ## Olá, obrigado por visitar o meu Github!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romulocraveiro/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:romulocraveiro@gmail.com)](mailto:romulocraveiro@gmail.com/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/romulocraveiro/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:romulocraveiro@gmail.com/)
 
 <p align="center">
   <img src="img/federationlogodark.jpg" width="250" title="federationlogo" alt="United Federation of Planets' logo">
